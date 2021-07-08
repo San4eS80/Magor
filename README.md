@@ -1,1 +1,1 @@
-# Magor
+# SGadget
